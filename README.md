@@ -1,6 +1,8 @@
-# Goals
+# PIPES
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
+# PROJECT DESCRIPTIONS
+I have added the completeDate property in our constructor for the goal blueprint and set its datatype to Date. We now need to update our Goals array to add a completion date to each goal.The Date instance takes 3 arguments the first one is the year, the second argument is the month the third argument is the date. The month is calculated from 0-11 where 0 is January and 11 is December.
 
 ## Development server
 
